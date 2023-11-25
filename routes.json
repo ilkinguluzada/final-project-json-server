@@ -1,5 +1,6 @@
 {
-  "/api/": "/",
-  "/blog/:resource/:id/show": "/:resource/:id",
-  "/blog/:category": "/posts?category=:category"
+    "/products": "/products",
+    "/products/:id": "/products/:id",
+    "/blogPosts": "/blogPosts",
+    "/blogPosts/:id": "/blogPosts/:id"
 }
